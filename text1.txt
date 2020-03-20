@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B45F-13A6
+
+ Directory of C:\Users\joblul\Desktop\Myproject
+
+20/03/2020  08:27    <DIR>          .
+20/03/2020  08:27    <DIR>          ..
+20/03/2020  08:27                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  390.535.884.800 bytes free
